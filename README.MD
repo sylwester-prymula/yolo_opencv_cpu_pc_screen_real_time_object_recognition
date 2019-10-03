@@ -7,7 +7,7 @@ The program uses the CPU.
 
 On the right a source e.g. with a browser window, on the left a window with captured data and with recognized objects.
 
-![YOLO Real-time object recognition from the captured computer screen.](https://github.com/???/master/example.png)
+![YOLO Real-time object recognition from the captured computer screen.](https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example.png)
 
 My code was based on: \
 https://pysource.com/2019/07/08/yolo-real-time-detection-on-cpu/
