@@ -9,9 +9,11 @@ On the right a source e.g. with a browser window, on the left a window with capt
 
 ![YOLO Real-time object recognition from the captured computer screen - example 1](https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example/example.png)
 
-Video example 1: https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example/1.mp4
+Video example 1: \
+https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example/1.mp4
 
-Video example 2: https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example/2.mp4
+Video example 2: \
+https://github.com/sylwester-prymula/yolo_opencv_cpu_pc_screen_real_time_object_recognition/blob/master/example/2.mp4
 
 My code was based on: \
 https://pysource.com/2019/07/08/yolo-real-time-detection-on-cpu/
